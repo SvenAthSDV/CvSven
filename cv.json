@@ -1,0 +1,304 @@
+{
+  "basics": {
+    "name": "Sven Athanase",
+    "label": "Devops Engineer",
+    "image": "/me_avatar.jpg",
+    "email": "sven.athanase@outlook.fr",
+    "url": "https://gitlab.com/SvenAthSDV",
+    "summary": "Aspiring DevOps Engineer with a strong foundation in automation, cloud infrastructure, and CI/CD pipelines. Currently pursuing an apprenticeship to gain hands-on experience and contribute to the development of efficient and scalable systems.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "35270",
+      "city": "Combourg",
+      "countryCode": "FR",
+      "region": "Brittany, France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sven-athanase",
+        "url": "https://linkedin.com/in/john-doe"
+      },
+      {
+        "network": "GitHub",
+        "username": "SvenAthSDV",
+        "url": "https://gitlab.com/SvenAthSDV"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SIB",
+      "position": "Technician Apprentice",
+      "location_type": "On site",
+      "location": "Rennes, France",
+      "url": "https://www.mipih.fr/",
+      "startDate": "2021-09-16",
+      "endDate": "2023-07-01",
+      "summary": "Prepared and installed infrastructure packages in establishments, ensured proper operation through interventions and ticketing, and supported users on-site.",
+      "highlights": [
+        "Successfully deployed infrastructure solutions across multiple establishments.",
+        "Resolved technical issues efficiently to maintain system performance."
+      ],
+      "responsibilities": [
+        "Prepared and installed the infrastructure pack in various establishments.",
+        "Ensured system reliability and functionality through on-site interventions and ticketing.",
+        "Collaborated with teams to address and resolve hardware and software issues."
+      ],
+      "achievements": [
+        "Delivered high-quality technical support, contributing to improved operational efficiency.",
+        "Streamlined the deployment process, reducing setup times across sites."
+      ],
+      "skills": [
+        "Ivanti",
+        "iTop",
+        "Infrastructure Deployment",
+        "Technical Support"
+      ]
+    },
+    {
+      "name": "SIB",
+      "position": "System and Network Administrator",
+      "location_type": "On site",
+      "location": "Rennes, France",
+      "url": "https://www.mipih.fr/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-07-01",
+      "summary": "Managed and maintained system and network infrastructures, ensured operational efficiency, and automated routine tasks using Python.",
+      "highlights": [
+        "Optimized network performance by identifying and resolving bottlenecks.",
+        "Automated repetitive tasks to improve workflow efficiency using Python."
+      ],
+      "responsibilities": [
+        "Monitored and maintained system and network infrastructure to ensure availability and performance.",
+        "Resolved complex technical issues related to system and network configurations.",
+        "Automated routine maintenance tasks and reporting using Python scripts.",
+        "Collaborated with IT teams to implement and document new network solutions."
+      ],
+      "achievements": [
+        "Improved network reliability through proactive monitoring and quick resolution of incidents.",
+        "Developed Python scripts to reduce manual workload and increase team productivity."
+      ],
+      "skills": [
+        "Python",
+        "System Administration",
+        "Network Troubleshooting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "SIB",
+      "position": "DevOps Engineer",
+      "location_type": "On site",
+      "location": "Rennes, France",
+      "url": "https://www.mipih.fr/",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Streamlining IT operations through automation with Rundeck, Python, and Ansible, and ensuring the reliability of infrastructure and systems.",
+      "highlights": [
+        "Automated routine operational tasks using Rundeck, reducing manual interventions.",
+        "Developed Python scripts to enhance system management and monitoring.",
+        "Implemented Ansible playbooks to standardize infrastructure provisioning."
+      ],
+      "responsibilities": [
+        "Automated operational workflows and incident resolution processes using Rundeck.",
+        "Developed and maintained Python scripts for infrastructure monitoring and reporting.",
+        "Configured and deployed Ansible playbooks to manage and provision systems.",
+        "Collaborated with IT teams to identify areas for automation and improve operational efficiency."
+      ],
+      "achievements": [
+        "Reduced incident resolution times by implementing automated workflows with Rundeck.",
+        "Standardized infrastructure provisioning, leading to consistent and reliable deployments."
+      ],
+      "skills": [
+        "Rundeck",
+        "Python",
+        "Ansible",
+        "Automation",
+        "Infrastructure Management"
+      ]
+    }
+    
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "AFTEC Rennes",
+      "url": "https://www.aftec.fr/",
+      "area": "System, Network, and Cloud",
+      "studyType": "BTS",
+      "startDate": "2021-09-01",
+      "endDate": "2023-07-01",
+      "score": "",
+      "courses": [
+        "Introduction to System and Network Administration",
+        "Cloud Infrastructure and Virtualization",
+        "Network Security and Troubleshooting",
+        "Project Management and IT Tools"
+      ]
+    },
+    {
+      "institution": "Sup de Vinci",
+      "url": "https://www.supdevinci.fr/",
+      "area": "Information Systems Administration",
+      "studyType": "Bachelor",
+      "startDate": "2023-09-01",
+      "endDate": "2024-07-01",
+      "score": "",
+      "courses": [
+        "Advanced System Administration",
+        "Network Architecture and Management",
+        "Database Administration and Optimization",
+        "IT Security and Risk Management",
+        "Project Management for IT Systems",
+        "Automation with Python and Ansible"
+      ]
+    },
+    {
+      "institution": "Sup de Vinci",
+      "url": "https://www.supdevinci.fr/",
+      "area": "DevOps and Cloud Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "score": "",
+      "courses": [
+        "DevOps Practices and Tools",
+        "Continuous Integration and Delivery",
+        "Containerization with Docker",
+        "Orchestration with Kubernetes",
+        "Cloud Infrastructure with AWS and Azure",
+        "Infrastructure as Code with Terraform and Ansible"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CCNA 1 - Introduction to Networks",
+      "date": "2023-05-01",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://www.netacad.com/"
+    }    
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Todo List Application",
+      "isActive": false,
+      "description": "A simple todo list application developed as part of coursework, showcasing skills in Golang and Bootstrap.",
+      "highlights": [
+        "Developed the backend using Golang to handle CRUD operations.",
+        "Designed a responsive front-end interface with Bootstrap.",
+        "Implemented features such as task prioritization and completion tracking."
+      ],
+      "url": "https://gitlab.com/sdv8290844/golang/todo-list",
+      "gitlab": "https://gitlab.com/sdv8290844/golang/todo-list"
+    },
+    {
+      "name": "Python Environment Deployment Script",
+      "isActive": true,
+      "description": "A Bash script to automate the setup of a simple Python development environment, allowing users to specify and install desired Python modules.",
+      "highlights": [
+        "Automates the creation of a virtual environment for Python projects.",
+        "Installs user-specified Python modules from requirements.",
+        "Simplifies the initial setup process for Python developers."
+      ],
+      "url": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py",
+      "gitlab": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py"
+    }
+    ,
+    {
+      "name": "Application Management with CI/CD Pipeline",
+      "isActive": true,
+      "description": "A project to manage and deploy applications using Docker, Kubernetes, and Minikube, with a complete CI/CD pipeline setup.",
+      "highlights": [
+        "Containerized applications using Docker for consistent environments.",
+        "Deployed applications on Kubernetes clusters managed with Minikube.",
+        "Implemented a CI/CD pipeline to automate build, test, and deployment stages."
+      ],
+      "url": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
+      "gitlab": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1"
+    }
+  ]
+}

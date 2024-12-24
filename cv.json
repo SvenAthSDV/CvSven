@@ -5,6 +5,7 @@
     "image": "/me_avatar.jpg",
     "email": "sven.athanase@outlook.fr",
     "url": "https://gitlab.com/SvenAthSDV",
+    "phone": ""
     "summary": "Aspiring DevOps Engineer with a strong foundation in automation, cloud infrastructure, and CI/CD pipelines. Currently pursuing an apprenticeship to gain hands-on experience and contribute to the development of efficient and scalable systems.",
     "theme": "blue",
     "location": {
@@ -273,7 +274,8 @@
         "Implemented features such as task prioritization and completion tracking."
       ],
       "url": "https://gitlab.com/sdv8290844/golang/todo-list",
-      "gitlab": "https://gitlab.com/sdv8290844/golang/todo-list"
+      "gitlab": "https://gitlab.com/sdv8290844/golang/todo-list",
+      "github": "https://github.com/sdv8290844/golang/todo-list"
     },
     {
       "name": "Python Environment Deployment Script",
@@ -285,9 +287,9 @@
         "Simplifies the initial setup process for Python developers."
       ],
       "url": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py",
-      "gitlab": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py"
-    }
-    ,
+      "gitlab": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py",
+      "github": "https://github.com/sdv8290844/tools/Setup_Projet_py"
+    },
     {
       "name": "Application Management with CI/CD Pipeline",
       "isActive": true,
@@ -298,7 +300,8 @@
         "Implemented a CI/CD pipeline to automate build, test, and deployment stages."
       ],
       "url": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
-      "gitlab": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1"
+      "gitlab": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
+      "github": "https://github.com/sdv8290844/kubernetes/Kube_TP1"
     }
   ]
 }

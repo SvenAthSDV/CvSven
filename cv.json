@@ -1,11 +1,11 @@
 {
-  "basics": {
+    "basics": {
     "name": "Sven Athanase",
-    "label": "Devops Engineer",
+    "label": "DevOps Engineer",
     "image": "/me_avatar.jpg",
     "email": "sven.athanase@outlook.fr",
+    "phone": "+33 6 12 34 56 78",
     "url": "https://gitlab.com/SvenAthSDV",
-    "phone": ""
     "summary": "Aspiring DevOps Engineer with a strong foundation in automation, cloud infrastructure, and CI/CD pipelines. Currently pursuing an apprenticeship to gain hands-on experience and contribute to the development of efficient and scalable systems.",
     "theme": "blue",
     "location": {
@@ -19,7 +19,7 @@
       {
         "network": "LinkedIn",
         "username": "sven-athanase",
-        "url": "https://linkedin.com/in/john-doe"
+        "url": "https://linkedin.com/in/sven-athanase"
       },
       {
         "network": "GitHub",

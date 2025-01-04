@@ -31,31 +31,34 @@
   "work": [
     {
       "name": "SIB",
-      "position": "Technician Apprentice",
+      "position": "DevOps Engineer",
       "location_type": "On site",
       "location": "Rennes, France",
       "url": "https://www.mipih.fr/",
-      "startDate": "2021-09-16",
-      "endDate": "2023-07-01",
-      "summary": "Prepared and installed infrastructure packages in establishments, ensured proper operation through interventions and ticketing, and supported users on-site.",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Streamlining IT operations through automation with Rundeck, Python, and Ansible, and ensuring the reliability of infrastructure and systems.",
       "highlights": [
-        "Successfully deployed infrastructure solutions across multiple establishments.",
-        "Resolved technical issues efficiently to maintain system performance."
+        "Automated routine operational tasks using Rundeck, reducing manual interventions.",
+        "Developed Python scripts to enhance system management and monitoring.",
+        "Implemented Ansible playbooks to standardize infrastructure provisioning."
       ],
       "responsibilities": [
-        "Prepared and installed the infrastructure pack in various establishments.",
-        "Ensured system reliability and functionality through on-site interventions and ticketing.",
-        "Collaborated with teams to address and resolve hardware and software issues."
+        "Automated operational workflows and incident resolution processes using Rundeck.",
+        "Developed and maintained Python scripts for infrastructure monitoring and reporting.",
+        "Configured and deployed Ansible playbooks to manage and provision systems.",
+        "Collaborated with IT teams to identify areas for automation and improve operational efficiency."
       ],
       "achievements": [
-        "Delivered high-quality technical support, contributing to improved operational efficiency.",
-        "Streamlined the deployment process, reducing setup times across sites."
+        "Reduced incident resolution times by implementing automated workflows with Rundeck.",
+        "Standardized infrastructure provisioning, leading to consistent and reliable deployments."
       ],
       "skills": [
-        "Ivanti",
-        "iTop",
-        "Infrastructure Deployment",
-        "Technical Support"
+        "Rundeck",
+        "Python",
+        "Ansible",
+        "Automation",
+        "Infrastructure Management"
       ]
     },
     {
@@ -90,37 +93,33 @@
     },
     {
       "name": "SIB",
-      "position": "DevOps Engineer",
+      "position": "Technician Apprentice",
       "location_type": "On site",
       "location": "Rennes, France",
       "url": "https://www.mipih.fr/",
-      "startDate": "2024-09-01",
-      "endDate": null,
-      "summary": "Streamlining IT operations through automation with Rundeck, Python, and Ansible, and ensuring the reliability of infrastructure and systems.",
+      "startDate": "2021-09-16",
+      "endDate": "2023-07-01",
+      "summary": "Prepared and installed infrastructure packages in establishments, ensured proper operation through interventions and ticketing, and supported users on-site.",
       "highlights": [
-        "Automated routine operational tasks using Rundeck, reducing manual interventions.",
-        "Developed Python scripts to enhance system management and monitoring.",
-        "Implemented Ansible playbooks to standardize infrastructure provisioning."
+        "Successfully deployed infrastructure solutions across multiple establishments.",
+        "Resolved technical issues efficiently to maintain system performance."
       ],
       "responsibilities": [
-        "Automated operational workflows and incident resolution processes using Rundeck.",
-        "Developed and maintained Python scripts for infrastructure monitoring and reporting.",
-        "Configured and deployed Ansible playbooks to manage and provision systems.",
-        "Collaborated with IT teams to identify areas for automation and improve operational efficiency."
+        "Prepared and installed the infrastructure pack in various establishments.",
+        "Ensured system reliability and functionality through on-site interventions and ticketing.",
+        "Collaborated with teams to address and resolve hardware and software issues."
       ],
       "achievements": [
-        "Reduced incident resolution times by implementing automated workflows with Rundeck.",
-        "Standardized infrastructure provisioning, leading to consistent and reliable deployments."
+        "Delivered high-quality technical support, contributing to improved operational efficiency.",
+        "Streamlined the deployment process, reducing setup times across sites."
       ],
       "skills": [
-        "Rundeck",
-        "Python",
-        "Ansible",
-        "Automation",
-        "Infrastructure Management"
+        "Ivanti",
+        "iTop",
+        "Infrastructure Deployment",
+        "Technical Support"
       ]
-    }
-    
+    }  
   ],
   "volunteer": [
     {

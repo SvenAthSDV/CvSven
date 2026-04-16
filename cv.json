@@ -1,19 +1,19 @@
 {
     "basics": {
     "name": "Sven Athanase",
-    "label": "DevOps Engineer !",
+    "label": "Ingenieur DevOps !",
     "image": "avatar.jpg",
     "email": "sven.athanase@outlook.fr",
     "phone": "+33 7 67 88 32 69",
     "url": "https://gitlab.com/SvenAthSDV",
-    "summary": "Aspiring DevOps Engineer with a strong foundation in automation, cloud infrastructure, and CI/CD pipelines. Currently pursuing an apprenticeship to gain hands-on experience and contribute to the development of efficient and scalable systems.",
+    "summary": "Ingenieur DevOps en devenir avec de solides bases en automatisation, infrastructure cloud et pipelines CI/CD. Actuellement en alternance pour acquerir une experience pratique et contribuer au developpement de systemes performants et evolutifs.",
     "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "35270",
       "city": "Combourg",
       "countryCode": "FR",
-      "region": "Brittany, France"
+      "region": "Bretagne, France"
     },
     "profiles": [
       {
@@ -31,27 +31,27 @@
   "work": [
     {
       "name": "MipihSIB",
-      "position": "DevOps Engineer",
-      "location_type": "On site",
+      "position": "Ingenieur DevOps",
+      "location_type": "Sur site",
       "location": "Rennes, France",
       "url": "https://www.mipih.fr/",
       "startDate": "2024-09-01",
       "endDate": null,
-      "summary": "Streamlining IT operations through automation with Rundeck, Python, and Ansible, and ensuring the reliability of infrastructure and systems.",
+      "summary": "Optimisation des operations IT par l'automatisation avec Rundeck, Python et Ansible, et garantie de la fiabilite de l'infrastructure et des systemes.",
       "highlights": [
-        "Automated routine operational tasks using Rundeck, reducing manual interventions.",
-        "Developed Python scripts to enhance system management and monitoring.",
-        "Implemented Ansible playbooks to standardize infrastructure provisioning."
+        "Automatisation des taches operationnelles courantes avec Rundeck, reduisant les interventions manuelles.",
+        "Developpement de scripts Python pour ameliorer la gestion et la supervision des systemes.",
+        "Mise en place de playbooks Ansible pour standardiser le provisionnement de l'infrastructure."
       ],
       "responsibilities": [
-        "Automated operational workflows and incident resolution processes using Rundeck.",
-        "Developed and maintained Python scripts for infrastructure monitoring and reporting.",
-        "Configured and deployed Ansible playbooks to manage and provision systems.",
-        "Collaborated with IT teams to identify areas for automation and improve operational efficiency."
+        "Automatisation des workflows operationnels et des processus de resolution d'incidents avec Rundeck.",
+        "Developpement et maintenance de scripts Python pour la supervision et le reporting de l'infrastructure.",
+        "Configuration et deploiement de playbooks Ansible pour la gestion et le provisionnement des systemes.",
+        "Collaboration avec les equipes IT pour identifier les axes d'automatisation et ameliorer l'efficacite operationnelle."
       ],
       "achievements": [
-        "Reduced incident resolution times by implementing automated workflows with Rundeck.",
-        "Standardized infrastructure provisioning, leading to consistent and reliable deployments."
+        "Reduction des temps de resolution d'incidents grace a la mise en place de workflows automatises avec Rundeck.",
+        "Standardisation du provisionnement de l'infrastructure, assurant des deploiements coherents et fiables."
       ],
       "skills": [
         "Rundeck",
@@ -63,74 +63,74 @@
     },
     {
       "name": "SIB",
-      "position": "System and Network Administrator",
-      "location_type": "On site",
+      "position": "Administrateur Systemes et Reseaux",
+      "location_type": "Sur site",
       "location": "Rennes, France",
       "url": "https://www.mipih.fr/",
       "startDate": "2023-09-01",
       "endDate": "2024-07-01",
-      "summary": "Managed and maintained system and network infrastructures, ensured operational efficiency, and automated routine tasks using Python.",
+      "summary": "Gestion et maintenance des infrastructures systemes et reseaux, garantie de l'efficacite operationnelle et automatisation des taches recurrentes avec Python.",
       "highlights": [
-        "Optimized network performance by identifying and resolving bottlenecks.",
-        "Automated repetitive tasks to improve workflow efficiency using Python."
+        "Optimisation des performances reseau par l'identification et la resolution des goulets d'etranglement.",
+        "Automatisation des taches repetitives pour ameliorer l'efficacite des workflows avec Python."
       ],
       "responsibilities": [
-        "Monitored and maintained system and network infrastructure to ensure availability and performance.",
-        "Resolved complex technical issues related to system and network configurations.",
-        "Automated routine maintenance tasks and reporting using Python scripts.",
-        "Collaborated with IT teams to implement and document new network solutions."
+        "Supervision et maintenance de l'infrastructure systeme et reseau pour assurer la disponibilite et les performances.",
+        "Resolution de problemes techniques complexes lies aux configurations systemes et reseaux.",
+        "Automatisation des taches de maintenance courantes et du reporting avec des scripts Python.",
+        "Collaboration avec les equipes IT pour implementer et documenter de nouvelles solutions reseau."
       ],
       "achievements": [
-        "Improved network reliability through proactive monitoring and quick resolution of incidents.",
-        "Developed Python scripts to reduce manual workload and increase team productivity."
+        "Amelioration de la fiabilite du reseau par une supervision proactive et une resolution rapide des incidents.",
+        "Developpement de scripts Python pour reduire la charge de travail manuelle et augmenter la productivite de l'equipe."
       ],
       "skills": [
         "Python",
-        "System Administration",
-        "Network Troubleshooting",
-        "Automation"
+        "Administration Systeme",
+        "Depannage Reseau",
+        "Automatisation"
       ]
     },
     {
       "name": "SIB",
-      "position": "Technician Apprentice",
-      "location_type": "On site",
+      "position": "Technicien en alternance",
+      "location_type": "Sur site",
       "location": "Rennes, France",
       "url": "https://www.mipih.fr/",
       "startDate": "2021-09-16",
       "endDate": "2023-07-01",
-      "summary": "Prepared and installed infrastructure packages in establishments, ensured proper operation through interventions and ticketing, and supported users on-site.",
+      "summary": "Preparation et installation des packs d'infrastructure dans les etablissements, garantie du bon fonctionnement par des interventions et la gestion de tickets, et support utilisateur sur site.",
       "highlights": [
-        "Successfully deployed infrastructure solutions across multiple establishments.",
-        "Resolved technical issues efficiently to maintain system performance."
+        "Deploiement reussi de solutions d'infrastructure dans plusieurs etablissements.",
+        "Resolution efficace des problemes techniques pour maintenir les performances des systemes."
       ],
       "responsibilities": [
-        "Prepared and installed the infrastructure pack in various establishments.",
-        "Ensured system reliability and functionality through on-site interventions and ticketing.",
-        "Collaborated with teams to address and resolve hardware and software issues."
+        "Preparation et installation du pack d'infrastructure dans divers etablissements.",
+        "Garantie de la fiabilite et du fonctionnement des systemes par des interventions sur site et la gestion de tickets.",
+        "Collaboration avec les equipes pour resoudre les problemes materiels et logiciels."
       ],
       "achievements": [
-        "Delivered high-quality technical support, contributing to improved operational efficiency.",
-        "Streamlined the deployment process, reducing setup times across sites."
+        "Support technique de qualite contribuant a l'amelioration de l'efficacite operationnelle.",
+        "Optimisation du processus de deploiement, reduisant les temps d'installation sur les sites."
       ],
       "skills": [
         "Ivanti",
         "iTop",
-        "Infrastructure Deployment",
-        "Technical Support"
+        "Deploiement d'infrastructure",
+        "Support technique"
       ]
-    }  
+    }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
+      "organization": "Club de programmation local",
+      "position": "Benevole",
       "url": "https://codingclub.com/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "summary": "Organisation d'ateliers de programmation et mentorat de nouveaux membres.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Elu 'Benevole du mois'"
       ]
     }
   ],
@@ -138,165 +138,165 @@
     {
       "institution": "AFTEC Rennes",
       "url": "https://www.aftec.fr/",
-      "area": "System, Network, and Cloud",
+      "area": "Systemes, Reseaux et Cloud",
       "studyType": "BTS",
       "startDate": "2021-09-01",
       "endDate": "2023-07-01",
       "score": "",
       "courses": [
-        "Introduction to System and Network Administration",
-        "Cloud Infrastructure and Virtualization",
-        "Network Security and Troubleshooting",
-        "Project Management and IT Tools"
+        "Introduction a l'administration systemes et reseaux",
+        "Infrastructure cloud et virtualisation",
+        "Securite reseau et depannage",
+        "Gestion de projet et outils IT"
       ]
     },
     {
       "institution": "Sup de Vinci",
       "url": "https://www.supdevinci.fr/",
-      "area": "Information Systems Administration",
+      "area": "Administration des Systemes d'Information",
       "studyType": "Bachelor",
       "startDate": "2023-09-01",
       "endDate": "2024-07-01",
       "score": "",
       "courses": [
-        "Advanced System Administration",
-        "Network Architecture and Management",
-        "Database Administration and Optimization",
-        "IT Security and Risk Management",
-        "Project Management for IT Systems",
-        "Automation with Python and Ansible"
+        "Administration systeme avancee",
+        "Architecture et gestion de reseaux",
+        "Administration et optimisation de bases de donnees",
+        "Securite IT et gestion des risques",
+        "Gestion de projet pour les systemes IT",
+        "Automatisation avec Python et Ansible"
       ]
     },
     {
       "institution": "Sup de Vinci",
       "url": "https://www.supdevinci.fr/",
-      "area": "DevOps and Cloud Engineering",
+      "area": "Ingenierie DevOps et Cloud",
       "studyType": "Bachelor",
       "startDate": "2024-09-01",
       "endDate": null,
       "score": "",
       "courses": [
-        "DevOps Practices and Tools",
-        "Continuous Integration and Delivery",
-        "Containerization with Docker",
-        "Orchestration with Kubernetes",
-        "Cloud Infrastructure with AWS and Azure",
-        "Infrastructure as Code with Terraform and Ansible"
+        "Pratiques et outils DevOps",
+        "Integration et livraison continues",
+        "Conteneurisation avec Docker",
+        "Orchestration avec Kubernetes",
+        "Infrastructure cloud avec AWS et Azure",
+        "Infrastructure as Code avec Terraform et Ansible"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "CCNA 1 - Introduction to Networks",
+      "name": "CCNA 1 - Introduction aux reseaux",
       "date": "2023-05-01",
       "issuer": "Cisco Networking Academy",
       "url": "https://www.netacad.com/"
-    }    
+    }
   ],
   "skills": [
     {
       "name": "Python",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        
+
       ]
     },
     {
       "name": "Gitlab",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        "Version Control",
+        "Controle de version",
         "Collaboration",
-        "Source Code"
+        "Code source"
       ]
     },
     {
       "name": "HTML",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        "Web Development",
+        "Developpement web",
         "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        "Web Development",
+        "Developpement web",
         "Frontend",
-        "Responsive Design"
+        "Design responsive"
       ]
     },
     {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        "Version Control",
+        "Controle de version",
         "Collaboration",
-        "Source Code"
+        "Code source"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Intermediate",
+      "level": "Intermediaire",
       "keywords": [
-        "Version Control",
+        "Controle de version",
         "Collaboration",
-        "Source Code",
+        "Code source",
         "Git"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Intermediate"
+      "language": "Anglais",
+      "fluency": "Intermediaire"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "Technologie",
       "keywords": [
-        "AI",
+        "IA",
         "Blockchain"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Todo List Application",
+      "name": "Application Todo List",
       "isActive": false,
-      "description": "A simple todo list application developed as part of coursework, showcasing skills in Golang and Bootstrap.",
+      "description": "Une application de liste de taches developpee dans le cadre d'un projet scolaire, mettant en avant des competences en Golang et Bootstrap.",
       "highlights": [
-        "Developed the backend using Golang to handle CRUD operations.",
-        "Designed a responsive front-end interface with Bootstrap.",
-        "Implemented features such as task prioritization and completion tracking."
+        "Developpement du backend en Golang pour gerer les operations CRUD.",
+        "Conception d'une interface front-end responsive avec Bootstrap.",
+        "Implementation de fonctionnalites telles que la priorisation et le suivi des taches."
       ],
       "url": "https://gitlab.com/sdv8290844/golang/todo-list",
       "gitlab": "https://gitlab.com/sdv8290844/golang/todo-list",
       "github": "https://github.com/sdv8290844/golang/todo-list"
     },
     {
-      "name": "Python Environment Deployment Script",
+      "name": "Script de deploiement d'environnement Python",
       "isActive": true,
-      "description": "A Bash script to automate the setup of a simple Python development environment, allowing users to specify and install desired Python modules.",
+      "description": "Un script Bash pour automatiser la mise en place d'un environnement de developpement Python, permettant de specifier et installer les modules souhaites.",
       "highlights": [
-        "Automates the creation of a virtual environment for Python projects.",
-        "Installs user-specified Python modules from requirements.",
-        "Simplifies the initial setup process for Python developers."
+        "Automatise la creation d'un environnement virtuel pour les projets Python.",
+        "Installe les modules Python specifies par l'utilisateur depuis les requirements.",
+        "Simplifie le processus de configuration initiale pour les developpeurs Python."
       ],
       "url": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py",
       "gitlab": "https://gitlab.com/sdv8290844/tools/Setup_Projet_py",
       "github": "https://github.com/sdv8290844/tools/Setup_Projet_py"
     },
     {
-      "name": "Application Management with CI/CD Pipeline",
+      "name": "Gestion d'applications avec pipeline CI/CD",
       "isActive": true,
-      "description": "A project to manage and deploy applications using Docker, Kubernetes, and Minikube, with a complete CI/CD pipeline setup.",
+      "description": "Un projet de gestion et de deploiement d'applications utilisant Docker, Kubernetes et Minikube, avec un pipeline CI/CD complet.",
       "highlights": [
-        "Containerized applications using Docker for consistent environments.",
-        "Deployed applications on Kubernetes clusters managed with Minikube.",
-        "Implemented a CI/CD pipeline to automate build, test, and deployment stages."
+        "Conteneurisation des applications avec Docker pour des environnements coherents.",
+        "Deploiement des applications sur des clusters Kubernetes geres avec Minikube.",
+        "Mise en place d'un pipeline CI/CD pour automatiser les etapes de build, test et deploiement."
       ],
       "url": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
       "gitlab": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",

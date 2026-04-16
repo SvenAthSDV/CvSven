@@ -301,6 +301,19 @@
       "url": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
       "gitlab": "https://gitlab.com/sdv8290844/kubernetes/Kube_TP1",
       "github": "https://github.com/sdv8290844/kubernetes/Kube_TP1"
+    },
+    {
+      "name": "Homelab Kubernetes",
+      "isActive": true,
+      "description": "Infrastructure homelab complete sur k3s, deployee en GitOps via ArgoCD avec gestion des secrets par Vault et exposition securisee via Cloudflare Zero Trust.",
+      "highlights": [
+        "Deploiement GitOps de plus de 15 services (ArgoCD, Keycloak, Harbor, Grafana, AWX, etc.).",
+        "Gestion centralisee des secrets avec HashiCorp Vault et External Secrets Operator.",
+        "Automatisation de la maintenance serveur et cluster via AWX et des playbooks Ansible.",
+        "Exposition securisee des services via Cloudflare Zero Trust Tunnel et Traefik."
+      ],
+      "url": "https://gitlab.com/SvenAthSDV/homelab-kubernetes",
+      "gitlab": "https://gitlab.com/SvenAthSDV/homelab-kubernetes"
     }
   ]
 }
